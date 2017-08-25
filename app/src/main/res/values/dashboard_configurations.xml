@@ -49,7 +49,8 @@
     <!-- Home description
     - If you don't want to show description, just leave this empty -->
     <string name="home_description"><![CDATA[
-        Drop icon pack contains small handcrafted icons in a light color scheme.
+        Drop icon pack contains small handcrafted icons in a light color scheme ready to be used with your favourite launcher.
+        If there are any icons you wish to see in future updates please use the request function.
         ]]></string>
 
     <!-- More apps at Google Play Store
@@ -119,7 +120,7 @@
     * but you also want user able to make 10 request again after update, then enable this option
     * default: false
     * change to true to enable it -->
-    <bool name="reset_icon_request_limit">false</bool>
+    <bool name="reset_icon_request_limit">true</bool>
 
     <!-- Enable or disable premium request
     * default: false
