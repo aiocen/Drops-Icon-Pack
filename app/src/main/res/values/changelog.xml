@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">22 August, 2017</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline -->
+    <string-array name="changelog">
+        <item><![CDATA[
+        <b>Increased amount of free requests to 15 for a limited time only, get your requests in today!</b>
+        ]]></item>
+        <item><![CDATA[
+        Added new icons
+        ]]></item>
+        <item><![CDATA[
+        Touched up on some old icons
+        ]]></item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>0.1</version>
+
+    <category title="Newly Added" />
+    <item drawable="camera" />
+
+    <category title="0-9" />
+
+    <category title="A" />
+    <item drawable="adobe_acrobat" />
+    <item drawable="adw_launcher" />
+    <item drawable="apex_launcher" />
+
+    <category title="B" />
+    <item drawable="browser" />
+
+    <category title="C" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="chrome" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+
+    <category title="D" />
+    <item drawable="docs" />
+    <item drawable="drive" />
+    <item drawable="dropbox" />
+
+    <category title="E" />
+    <item drawable="ebay" />
+
+    <category title="F" />
+    <item drawable="facebook" />
+    <item drawable="fit" />
+    <item drawable="fm_radio" />
+
+    <category title="G" />
+    <item drawable="gboard" />
+    <item drawable="gmail" />
+    <item drawable="go_launcher_z" />
+    <item drawable="google" />
+    <item drawable="google_calendar" />
+    <item drawable="google_now_launcher" />
+    <item drawable="google_plus" />
+
+    <category title="H" />
+    <item drawable="hangouts" />
+    <item drawable="holo_launcher" />
+
+    <category title="I" />
+    <item drawable="instagram" />
+
+    <category title="J" />
+
+    <category title="K" />
+    <item drawable="keep" />
+
+    <category title="L" />
+
+    <category title="M" />
+    <item drawable="maps" />
+    <item drawable="messages" />
+    <item drawable="messenger" />
+    <item drawable="mx_player" />
+    <item drawable="news_weather" />
+
+    <category title="N" />
+    <item drawable="nova_launcher" />
+
+    <category title="O" />
+
+    <category title="P" />
+    <item drawable="phone" />
+    <item drawable="photos" />
+    <item drawable="play_books" />
+    <item drawable="play_games" />
+    <item drawable="play_movies" />
+    <item drawable="play_music" />
+    <item drawable="play_newsstand" />
+    <item drawable="play_store" />
+
+    <category title="Q" />
+
+    <category title="R" />
+
+    <category title="S" />
+    <item drawable="settings" />
+    <item drawable="shazam" />
+    <item drawable="sheets" />
+    <item drawable="sim_toolkit" />
+    <item drawable="skype" />
+    <item drawable="slides" />
+    <item drawable="snapchat" />
+    <item drawable="solid_explorer" />
+    <item drawable="soundcloud" />
+    <item drawable="spotify" />
+
+    <category title="T" />
+    <item drawable="translate" />
+    <item drawable="twitter" />
+
+    <category title="U" />
+
+    <category title="V" />
+    <item drawable="viber" />
+    <item drawable="voice_search" />
+
+    <category title="W" />
+    <item drawable="wallpapers" />
+    <item drawable="whatsapp" />
+
+    <category title="X" />
+
+    <category title="Y" />
+    <item drawable="youtube" />
+
+    <category title="Z" />
+
+
+</resources>

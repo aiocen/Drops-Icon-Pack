@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- 1.0.0 -->
+
+    <!-- General -->
+    <item component=":BROWSER" name="browser" />
+    <item component=":CALCULATOR" name="calculator" />
+    <item component=":CALENDAR" name="calendar" />
+    <item component=":CAMERA" name="camera" />
+    <item component=":CLOCK" name="clock" />
+    <item component=":CONTACTS" name="contacts" />
+    <item component=":EMAIL" name="mail" />
+    <item component=":GALLERY" name="gallery" />
+    <item component=":LAUNCHER_ACTION_APP_DRAWER" name="app_drawer_three" />
+    <item component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT" name="app_drawer_eight" />
+    <item component=":PHONE" name="phone" />
+    <item component=":SMS" name="sms" />
+    <!-- Google Calendar -->
+    <item class="com.google.android.calendar/com.android.calendar.LaunchActivity" name="calendar2_12" />
+    <item class="com.google.android.calendar/com.android.calendar.AllInOneActivity" name="calendar2_12" />
+    <!-- Calendar -->
+    <item class="com.android.calendar/com.android.calendar.LaunchActivity" name="calendar_12" />
+    <item class="com.htc.calendar/com.htc.calendar.LaunchActivity" name="calendar_12" />
+    <item class="com.htc.calendar/com.htc.calendar.CalendarActivityMain" name="calendar_12" />
+    <item class="com.htc.calendar/com.htc.calendar.CalendarCarouselActivity" name="calendar_12" />
+    <item class="com.android.calendar/com.android.calendar.AllInOneActivity" name="calendar_12" />
+    <item class="com.android.calendar/com.android.calendar.CalendarTabActivity" name="calendar_12" />
+    <item class="com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity" name="calendar_12" />
+    <item class="com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity" name="calendar2_12" />
+    <item class="com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity" name="calendar_12" />
+    <item class="com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity" name="calendar_12" />
+    <item class="com.motorola.calendar/com.motorola.calendar.LaunchActivity" name="calendar_12" />
+    <item class="com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity" name="calendar_12" />
+    <item class="com.lge.calendar/com.lge.calendar.LaunchActivity" name="calendar_12" />
+    <item class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI" name="calendar_12" />
+    <item class="com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher" name="calendar_12" />
+    <item class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew" name="calendar_12" />
+    <item class="com.android.calendar/com.android.calendar.MonthActivity" name="calendar_12" />
+    <!-- Today Calendar -->
+    <item class="com.underwood.calendar_beta/com.android.calendar.AllInOneActivity" name="today_calendar_12"/>
+    <item class="com.underwood.calendar/com.android.calendar.AllInOneActivity" name="today_calendar_12"/>
+    <!-- Dynamic Calendar - Today Calendar -->
+    <calendar class="com.underwood.calendar_beta/com.android.calendar.AllInOneActivity" prefix="today_calendar_"/>
+    <calendar class="com.underwood.calendar/com.android.calendar.AllInOneActivity" prefix="today_calendar_"/>
+    <!-- Dynamic Calendar - Google Calendar -->
+    <calendar class="com.google.android.calendar/com.android.calendar.LaunchActivity" prefix="calendar2_" />
+    <calendar class="com.google.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar2_" />
+    <!-- Dynamic Calendar - Calendar -->
+    <calendar class="com.android.calendar/com.android.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.htc.calendar/com.htc.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.htc.calendar/com.htc.calendar.CalendarActivityMain" prefix="calendar_" />
+    <calendar class="com.htc.calendar/com.htc.calendar.CalendarCarouselActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.AllInOneActivity" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.CalendarTabActivity" prefix="calendar_" />
+    <calendar class="com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity" prefix="calendar_" />
+    <calendar class="com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.sonyericsson.androidapp.lunarcalendar/com.sonyericsson.androidapp.lunarcalendar.CalendarActivity" prefix="calendar_" />
+    <calendar class="com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity" prefix="calendar_" />
+    <calendar class="com.motorola.calendar/com.motorola.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.oppo.calendar/com.oppo.calendar.activity.CalendarActivity" prefix="calendar_" />
+    <calendar class="com.lge.calendar/com.lge.calendar.LaunchActivity" prefix="calendar_" />
+    <calendar class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthUI" prefix="calendar_" />
+    <calendar class="com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher" prefix="calendar_" />
+    <calendar class="com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew" prefix="calendar_" />
+    <calendar class="com.android.calendar/com.android.calendar.MonthActivity" prefix="calendar_" />
+    <!-- Adobe Acrobat -->
+    <item class="com.adobe.reader/com.adobe.reader.AdobeReader" name="adobe_acrobat"/>
+    <!-- ADW Launcher -->
+    <item class="org.adw.launcher/org.adw.launcher.LauncherActivity" name="adw_launcher"/>
+    <!-- Apex Launcher -->
+    <item class="com.anddoes.launcher/com.anddoes.launcher.Launcher" name="apex_launcher"/>
+    <item class="com.anddoes.launcher/com.anddoes.launcher.preference.PreferencesActivity" name="apex_launcher" />
+    <!-- Browser -->
+    <item class="org.lineageos.jelly/org.lineageos.jelly.MainActivity" name="browser"/>
+    <!-- Calculator -->
+    <item class="com.android.calculator2/com.android.calculator2.Calculator" name="calculator"/>
+    <!-- Camera -->
+    <item class="org.cyanogenmod.snap/com.android.camera.CameraLauncher" name="camera"/>
+    <!-- Google Chrome -->
+    <item class="com.android.chrome/com.google.android.apps.chrome.Main" name="chrome"/>
+    <!-- Clock -->
+    <item class="com.android.deskclock/com.android.deskclock.DeskClock" name="clock"/>
+    <!-- Contacts -->
+    <item class="com.android.contacts/com.android.contacts.activities.PeopleActivity" name="contacts"/>
+    <!-- Google Docs -->
+    <item class="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity" name="docs"/>
+    <!-- Google Drive -->
+    <item class="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity" name="drive"/>
+    <!-- Dropbox -->
+    <item class="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser" name="dropbox"/>
+    <!-- Ebay -->
+    <item class="com.ebay.mobile/com.ebay.mobile.activities.MainActivity" name="ebay"/>
+    <!-- Facebook -->
+    <item class="com.facebook.katana/com.facebook.katana.LoginActivity" name="facebook"/>
+    <!-- Google Fit -->
+    <item class="com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity" name="fit"/>
+    <!-- FM Radio -->
+    <item class="com.android.fmradio/com.android.fmradio.FmMainActivity" name="fm_radio"/>
+    <!-- Gboard -->
+    <item class="com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" name="gboard"/>
+    <!-- Gmail -->
+    <item class="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail" name="gmail"/>
+    <!-- GO Launcher Z -->
+    <item class="com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade" name="go_launcher_z"/>
+    <!-- Google -->
+    <item class="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity" name="google"/>
+    <!-- Google Now Launcher -->
+    <item class="com.google.android.launcher/com.google.android.launcher.StubApp" name="google_now_launcher"/>
+    <!-- Google Plus -->
+    <item class="com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity" name="google_plus"/>
+    <!-- Google Hangouts -->
+    <item class="com.google.android.talk/com.google.android.talk.SigningInActivity" name="hangouts"/>
+    <!-- Holo Launcher -->
+    <item class="com.mobint.hololauncher/com.mobint.hololauncher.Launcher" name="holo_launcher"/>
+    <!-- Instagram -->
+    <item class="com.instagram.android/com.instagram.android.activity.MainTabActivity" name="instagram"/>
+    <item class="com.instagram.android" name="instagram" />
+    <!-- Google Keep -->
+    <item class="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" name="keep"/>
+    <!-- Google Maps -->
+    <item class="com.google.android.apps.maps/com.google.android.maps.MapsActivity" name="maps"/>
+    <!-- Google Messages -->
+    <item class="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity" name="messages"/>
+    <!-- Facebook Messenger -->
+    <item class="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity" name="messenger"/>
+    <!-- MX Player -->
+    <item class="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList" name="mx_player"/>
+    <!-- News and Weather -->
+    <item class="com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity" name="news_weather"/>
+    <!-- Nova Launcher -->
+    <item class="com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher"/>
+    <item class="com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity" name="nova_launcher" />
+    <!-- Phone -->
+    <item class="com.android.dialer/com.android.dialer.DialtactsActivity" name="phone"/>
+    <!-- Google Photos -->v
+    <item class="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity" name="photos"/>
+    <!-- Play Books -->
+    <item class="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity" name="play_books"/>
+    <!-- Play Games -->
+    <item class="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity" name="play_games"/>
+    <!-- Play Movies -->
+    <item class="com.google.android.videos/com.google.android.youtube.videos.EntryPoint" name="play_movies"/>
+    <!-- Play Music -->
+    <item class="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity" name="play_music"/>
+    <!-- Play Newsstand -->
+    <item class="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity" name="play_newsstand"/>
+    <!-- Play Store -->
+    <item class="com.android.vending/com.android.vending.AssetBrowserActivity" name="play_store"/>
+    <!-- Settings -->
+    <item class="com.android.settings/com.android.settings.Settings" name="settings"/>
+    <!-- Shazam -->
+    <item class="com.shazam.android/com.shazam.android.activities.SplashActivity" name="shazam"/>
+    <!-- Google Sheets -->
+    <item class="com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity" name="sheets"/>
+    <!-- SIM Toolkit -->
+    <item class="com.android.stk/com.android.stk.StkMain" name="sim_toolkit"/>
+    <!-- Skype -->
+    <item class="com.skype.raider/com.skype.raider.Main" name="skype"/>
+    <item class="com.skype.raider/com.skype4life.MainActivity" name="skype"/>
+    <!-- Google Slides -->
+    <item class="com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity" name="slides"/>
+    <!-- Snapchat -->
+    <item class="com.snapchat.android/com.snapchat.android.LandingPageActivity" name="snapchat"/>
+    <!-- Solid Explorer -->
+    <item class="pl.solidexplorer2/pl.solidexplorer.SolidExplorer" name="solid_explorer"/>
+    <!-- Soundcloud -->
+    <item class="com.soundcloud.android/com.soundcloud.android.main.LauncherActivity" name="soundcloud"/>
+    <!-- Spotify -->
+    <item class="com.spotify.music/com.spotify.music.MainActivity" name="spotify"/>
+    <!-- Google Translate -->
+    <item class="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity" name="translate"/>
+    <!-- Twitter -->
+    <item class="com.twitter.android/com.twitter.android.StartActivity" name="twitter"/>
+    <!-- Viber -->
+    <item class="com.viber.voip/com.viber.voip.WelcomeActivity" name="viber"/>
+    <!-- Google Voice Search -->
+    <item class="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity" name="voice_search"/>
+    <!-- Google Wallpapers -->
+    <item class="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity" name="wallpapers"/>
+    <!-- WhatsApp -->
+    <item class="com.whatsapp/com.whatsapp.Main" name="whatsapp"/>
+    <!-- YouTube -->
+    <item class="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube"/>
+
+    <!-- 1.0.2 -->
+
+    <!-- AdAway -->
+    <item class="org.adaway" name="adaway" />
+    <!-- AFWall+ -->
+    <item class="dev.ukanth.ufirewall" name="afwall" />
+    <!-- Boost -->
+    <item class="com.rubenmayayo.reddit" name="boost" />
+    <!-- F-Droid -->
+    <item class="org.fdroid.fdroid" name="fdroid" />
+    <!-- Google Authenticator -->
+    <item class="com.google.android.apps.authenticator2" name="google_authenticator" />
+    <!-- Google Opinion Rewards -->
+    <item class="com.google.android.apps.paidtasks" name="google_opinion_rewards" />
+    <!-- Greenify -->
+    <item class="com.oasisfeng.greenify" name="greenify" />
+    <!-- Keepass2Android -->
+    <item class="keepass2android.keepass2android" name="keepass2android" />
+    <!-- Kustom Widget -->
+    <item class="org.kustom.widget" name="kustom_widget" />
+    <!-- SD Maid -->
+    <item class="eu.thedarken.sdm" name="sd_maid" />
+    <!-- Sporing -->
+    <item class="no.posten.sporing.controller" name="sporing" />
+    <!-- Tumblr -->
+    <item class="com.tumblr" name="tumblr" />
+    <!-- Twitch -->
+    <item class="tv.twitch.android.app" name="twitch" />
+    <!-- Vipps -->
+    <item class="no.dnb.vipps" name="vipps" />
+    <!-- VLC -->
+    <item class="org.videolan.vlc" name="vlc" />
+
+    <!-- 1.0.3 -->
+
+    <!-- 180 -->
+    <item class="com.opplysning180.no" name="o180" />
+    <!-- Amazon Shopping -->
+    <item class="com.amazon.mShop.android.shopping" name="amazon" />
+    <!-- Clover -->
+    <item class="org.floens.chan" name="clover" />
+    <!-- Contacts -->
+    <item class="com.google.android.contacts" name="contacts_alt" />
+    <!-- Dev Tools -->
+    <item class="com.android.development" name="devtools" />
+    <!-- Discord -->
+    <item class="com.discord" name="discord" />
+    <!-- DiskUsage -->
+    <item class="com.google.android.diskusage" name="diskusage" />
+    <!-- Downloads -->
+    <item class="com.android.documentsui" name="downloads" />
+    <!-- Gallery -->
+    <item class="com.android.gallery3d" name="gallery" />
+    <!-- GuitarTuna -->
+    <item class="com.ovelin.guitartuna" name="guitartuna" />
+    <!-- Hearthstone -->
+    <item class="com.blizzard.wtcg.hearthstone" name="hearthstone" />
+    <!-- LoL Friends -->
+    <item class="com.riotgames.mobile.leagueconnect" name="lol_friends" />
+    <!-- Microsoft Authenticator -->
+    <item class="com.azure.authenticator" name="ms_authenticator" />
+    <!-- Cyanogenmod Music -->
+    <item class="com.cyanogenmod.eleven" name="music_cyanogenmod" />
+    <!-- Play Console -->
+    <item class="com.google.android.apps.playconsole" name="play_console" />
+    <!-- Pocket Casts -->
+    <item class="au.com.shiftyjelly.pocketcasts" name="pocket_casts" />
+    <!-- Tachiyomi -->
+    <item class="eu.kanade.tachiyomi" name="tachiyomi" />
+    <!-- Talkmore -->
+    <item class="no.talkmore.faktura" name="talkmore" />
+    <!-- TeslaUnread -->
+    <item class="com.teslacoilsw.notifier" name="teslaunread" />
+    <!-- Titanium Backup -->
+    <item class="com.keramidas.TitaniumBackup" name="titanium_backup" />
+    <!-- Official TWRP App -->
+    <item class="me.twrp.twrpapp" name="twrp" />
+    <!-- WoW -->
+    <item class="com.blizzard.wowcompanion" name="wow" />
+    <!-- WoW Armory -->
+    <item class="com.blizzard.wow" name="wow_armory" />
+
+</appmap>

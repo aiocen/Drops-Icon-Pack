@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <version>0.1</version>
+
+    <pkgName>com.aiocen.iconpack.drops</pkgName>
+	<themeName>Drops</themeName>
+	<themeInfo>Small icons in a light color scheme.</themeInfo>
+	<preview img1="preview1" img2="preview2" />
+	
+</theme>

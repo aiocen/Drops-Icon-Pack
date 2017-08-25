@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="Newly Added" />
+    <item drawable="o17track" />
+    <item drawable="o17track_alt" />
+    <item drawable="airbnb" />
+    <item drawable="aliexpress" />
+    <item drawable="apple_music" />
+    <item drawable="camscanner" />
+    <item drawable="ccleaner" />
+    <item drawable="google_earth" />
+    <item drawable="evernote" />
+    <item drawable="equalizer" />
+    <item drawable="muzei" />
+    <item drawable="onedrive" />
+    <item drawable="flipboard" />
+    <item drawable="firefox" />
+    <item drawable="mega" />
+    <item drawable="mega_alt" />
+    <item drawable="netflix" />
+    <item drawable="paypal" />
+    <item drawable="pocket" />
+
+    <category title="0-9" />
+    <item drawable="o17track" />
+    <item drawable="o17track_alt" />
+    <item drawable="o180" />
+
+    <category title="A" />
+    <item drawable="adaway" />
+    <item drawable="adobe_acrobat" />
+    <item drawable="adw_launcher" />
+    <item drawable="afwall" />
+    <item drawable="amazon" />
+    <item drawable="amazon_alt" />
+    <item drawable="apex_launcher" />
+    <item drawable="airbnb" />
+    <item drawable="aliexpress" />
+    <item drawable="apple_music" />
+
+    <category title="B" />
+    <item drawable="boost" />
+    <item drawable="browser" />
+    <item drawable="browser_alt" />
+
+    <category title="C" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="camera_alt" />
+    <item drawable="chrome" />
+    <item drawable="clock" />
+    <item drawable="clover" />
+    <item drawable="contacts" />
+    <item drawable="contacts_alt" />
+    <item drawable="contacts_alt_2" />
+    <item drawable="contacts_alt_3" />
+    <item drawable="contacts_alt_4" />
+    <item drawable="contacts_alt_5" />
+    <item drawable="contacts_alt_6" />
+    <item drawable="camscanner" />
+    <item drawable="ccleaner" />
+
+    <category title="D" />
+    <item drawable="devtools" />
+    <item drawable="discord" />
+    <item drawable="discord_alt" />
+    <item drawable="diskusage" />
+    <item drawable="docs" />
+    <item drawable="downloads" />
+    <item drawable="drive" />
+    <item drawable="dropbox" />
+
+
+    <category title="E" />
+    <item drawable="ebay" />
+    <item drawable="evernote" />
+    <item drawable="equalizer" />
+
+    <category title="F" />
+    <item drawable="facebook" />
+    <item drawable="fdroid" />
+    <item drawable="fit" />
+    <item drawable="fm_radio" />
+    <item drawable="flipboard" />
+    <item drawable="firefox" />
+
+    <category title="G" />
+    <item drawable="gallery" />
+    <item drawable="gboard" />
+    <item drawable="gmail" />
+    <item drawable="go_launcher_z" />
+    <item drawable="google" />
+    <item drawable="google_authenticator" />
+    <item drawable="google_calendar" />
+    <item drawable="google_now_launcher" />
+    <item drawable="google_plus" />
+    <item drawable="greenify" />
+    <item drawable="guitartuna" />
+    <item drawable="google_earth" />
+
+    <category title="H" />
+    <item drawable="hangouts" />
+    <item drawable="hearthstone" />
+    <item drawable="holo_launcher" />
+
+    <category title="I" />
+    <item drawable="instagram" />
+
+    <category title="J" />
+
+    <category title="K" />
+    <item drawable="keep" />
+    <item drawable="keepass2android" />
+    <item drawable="kustom_widget" />
+
+    <category title="L" />
+    <item drawable="lol_friends" />
+
+    <category title="M" />
+    <item drawable="maps" />
+    <item drawable="mail" />
+    <item drawable="mail_alt" />
+    <item drawable="messages" />
+    <item drawable="messenger" />
+    <item drawable="ms_authenticator" />
+    <item drawable="music_cyanogenmod" />
+    <item drawable="mx_player" />
+    <item drawable="muzei" />
+    <item drawable="mega" />
+    <item drawable="mega_alt" />
+
+    <category title="N" />
+    <item drawable="news_weather" />
+    <item drawable="nova_launcher" />
+    <item drawable="netflix" />
+
+    <category title="O" />
+    <item drawable="onedrive" />
+
+    <category title="P" />
+    <item drawable="phone" />
+    <item drawable="photos" />
+    <item drawable="play_books" />
+    <item drawable="play_console" />
+    <item drawable="play_games" />
+    <item drawable="play_movies" />
+    <item drawable="play_music" />
+    <item drawable="play_newsstand" />
+    <item drawable="play_store" />
+    <item drawable="pocket_casts" />
+    <item drawable="paypal" />
+    <item drawable="pocket" />
+
+    <category title="Q" />
+
+    <category title="R" />
+    <item drawable="google_opinion_rewards" />
+
+    <category title="S" />
+    <item drawable="sd_maid" />
+    <item drawable="settings" />
+    <item drawable="shazam" />
+    <item drawable="sheets" />
+    <item drawable="sim_toolkit" />
+    <item drawable="skype" />
+    <item drawable="slides" />
+    <item drawable="sms" />
+    <item drawable="sms_alt" />
+    <item drawable="sms_alt_2" />
+    <item drawable="snapchat" />
+    <item drawable="solid_explorer" />
+    <item drawable="soundcloud" />
+    <item drawable="sporing" />
+    <item drawable="spotify" />
+
+    <category title="T" />
+    <item drawable="tachiyomi" />
+    <item drawable="talkmore" />
+    <item drawable="temperature" />
+    <item drawable="teslaunread" />
+    <item drawable="titanium_backup" />
+    <item drawable="translate" />
+    <item drawable="tumblr" />
+    <item drawable="twitch" />
+    <item drawable="twitter" />
+    <item drawable="twrp" />
+
+    <category title="U" />
+
+    <category title="V" />
+    <item drawable="viber" />
+    <item drawable="vipps" />
+    <item drawable="vlc" />
+    <item drawable="voice_search" />
+
+    <category title="W" />
+    <item drawable="wallpapers" />
+    <item drawable="whatsapp" />
+    <item drawable="wow" />
+    <item drawable="wow_armory" />
+
+    <category title="X" />
+
+    <category title="Y" />
+    <item drawable="youtube" />
+
+    <category title="Z" />
+
+
+</resources>

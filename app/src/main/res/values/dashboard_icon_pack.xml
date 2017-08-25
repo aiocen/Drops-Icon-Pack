@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Drops</string>
+
+    <string name="theme_title">Drops</string>
+    <string name="theme_name">Drops</string>
+
+    <string name="theme_author">Dai Nguyen</string>
+    <string name="developer_name">Dai Nguyen</string>
+    <string name="developerName">Dai Nguyen</string>
+    <string name="authorName">Dai Nguyen</string>
+
+    <string name="authorLink"></string>
+    <string name="developer_link"></string>
+
+    <string name="theme_description">Small icons in a light color scheme.</string>
+    <string name="theme_info">Small icons in a light color scheme.</string>
+    <string name="theme_ad_msg">Small icons in a light color scheme.</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.aiocen.iconpack.drops</string>
+
+</resources>
