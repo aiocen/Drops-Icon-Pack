@@ -160,6 +160,8 @@
     <item drawable="pocket_casts" />
     <item drawable="paypal" />
     <item drawable="pocket" />
+    <item drawable="pokemon_go" />
+    <item drawable="pushbullet" />
 
     <category title="Q" />
 
@@ -182,6 +184,7 @@
     <item drawable="soundcloud" />
     <item drawable="sporing" />
     <item drawable="spotify" />
+    <item drawable="screener" />
 
     <category title="T" />
     <item drawable="tachiyomi" />
@@ -194,6 +197,8 @@
     <item drawable="twitch" />
     <item drawable="twitter" />
     <item drawable="twrp" />
+    <item drawable="telegram" />
+    <item drawable="tinder" />
 
     <category title="U" />
 
@@ -208,6 +213,7 @@
     <item drawable="whatsapp" />
     <item drawable="wow" />
     <item drawable="wow_armory" />
+    <item drawable="wechat" />
 
     <category title="X" />
 
