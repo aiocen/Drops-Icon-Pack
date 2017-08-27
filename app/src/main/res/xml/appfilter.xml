@@ -268,4 +268,55 @@
     <!-- WoW Armory -->
     <item component="ComponentInfo{com.blizzard.wow/com.blizzard.wow.app.page.PageActivity}" drawable="wow_armory" />
 
+    <!-- 1.1.0 -->
+
+    <!-- 17TRACK -->
+    <item component="ComponentInfo{yqtrack.app/yqtrack.app.ui.splash.SplashActivity}" drawable="o17track" />
+    <!-- Airbnb -->
+    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}" drawable="airbnb" />
+    <!-- AliExpress -->
+    <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity}" drawable="aliexpress" />
+    <!-- Apple Music -->
+    <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music" />
+    <!-- CamScanner -->
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
+    <!-- CCleaner -->
+    <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui.activity.MainActivity}" drawable="ccleaner" />
+    <!-- Earth -->
+    <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="google_earth" />
+    <!-- Equalizer -->
+    <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="equalizer" />
+    <!-- Evernote -->
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="evernote" />
+    <!-- Firefox -->
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
+    <!-- Flipboard -->
+    <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
+    <!-- Kustom LWP -->
+    <item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="klwp" />
+    <!-- MEGA -->
+    <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega" />
+    <!-- Muzei -->
+    <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
+    <!-- Netflix -->
+    <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
+    <!-- OneDrive -->
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
+    <!-- PayPal -->
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
+    <!-- Pocket -->
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
+    <!-- Pokémon GO -->
+    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerActivity}" drawable="pokemon_go" />
+    <!-- Pushbullet -->
+    <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="pushbullet" />
+    <!-- Screener -->
+    <item component="ComponentInfo{de.toastcode.screener/de.toastcode.screener.LaunchActivity}" drawable="screener" />
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <!-- Tinder -->
+    <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder" />
+    <!-- WeChat -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
+
 </resources>

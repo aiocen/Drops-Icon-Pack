@@ -18,10 +18,17 @@
     <item drawable="flipboard" />
     <item drawable="firefox" />
     <item drawable="mega" />
-    <item drawable="mega_alt" />
     <item drawable="netflix" />
     <item drawable="paypal" />
     <item drawable="pocket" />
+    <item drawable="klwp" />
+    <item drawable="pokemon_go" />
+    <item drawable="pushbullet" />
+    <item drawable="screener" />
+    <item drawable="telegram" />
+    <item drawable="tinder" />
+    <item drawable="wechat" />
+    <item drawable="hangouts" />
 
     <category title="0-9" />
     <item drawable="o17track" />

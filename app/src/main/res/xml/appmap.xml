@@ -265,4 +265,55 @@
     <!-- WoW Armory -->
     <item class="com.blizzard.wow" name="wow_armory" />
 
+    <!-- 1.1.0 -->
+
+    <!-- 17TRACK -->
+    <item class="yqtrack.app" name="o17track" />
+    <!-- Airbnb -->
+    <item class="com.airbnb.android" name="airbnb" />
+    <!-- AliExpress -->
+    <item class="com.alibaba.aliexpresshd" name="aliexpress" />
+    <!-- Apple Music -->
+    <item class="com.apple.android.music" name="apple_music" />
+    <!-- CamScanner -->
+    <item class="com.intsig.camscanner" name="camscanner" />
+    <!-- CCleaner -->
+    <item class="com.piriform.ccleaner" name="ccleaner" />
+    <!-- Earth -->
+    <item class="com.google.earth" name="google_earth" />
+    <!-- Equalizer -->
+    <item class="com.android.musicfx" name="equalizer" />
+    <!-- Evernote -->
+    <item class="com.evernote" name="evernote" />
+    <!-- Firefox -->
+    <item class="org.mozilla.firefox" name="firefox" />
+    <!-- Flipboard -->
+    <item class="flipboard.app" name="flipboard" />
+    <!-- Kustom LWP -->
+    <item class="org.kustom.wallpaper" name="klwp" />
+    <!-- MEGA -->
+    <item class="mega.privacy.android.app" name="mega" />
+    <!-- Muzei -->
+    <item class="net.nurik.roman.muzei" name="muzei" />
+    <!-- Netflix -->
+    <item class="com.netflix.mediaclient" name="netflix" />
+    <!-- OneDrive -->
+    <item class="com.microsoft.skydrive" name="onedrive" />
+    <!-- PayPal -->
+    <item class="com.paypal.android.p2pmobile" name="paypal" />
+    <!-- Pocket -->
+    <item class="com.ideashower.readitlater.pro" name="pocket" />
+    <!-- Pokémon GO -->
+    <item class="com.nianticlabs.pokemongo" name="pokemon_go" />
+    <!-- Pushbullet -->
+    <item class="com.pushbullet.android" name="pushbullet" />
+    <!-- Screener -->
+    <item class="de.toastcode.screener" name="screener" />
+    <!-- Telegram -->
+    <item class="org.telegram.messenger" name="telegram" />
+    <!-- Tinder -->
+    <item class="com.tinder" name="tinder" />
+    <!-- WeChat -->
+    <item class="com.tencent.mm" name="wechat" />
+
 </appmap>

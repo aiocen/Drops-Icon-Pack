@@ -272,4 +272,55 @@
     <!-- WoW Armory -->
     <AppIcon name="com.blizzard.wow/com.blizzard.wow.app.page.PageActivity" image="wow_armory" />
 
+    <!-- 1.1.0 -->
+
+    <!-- 17TRACK -->
+    <AppIcon name="yqtrack.app/yqtrack.app.ui.splash.SplashActivity" image="o17track" />
+    <!-- Airbnb -->
+    <AppIcon name="com.airbnb.android/com.airbnb.android.activities.MainActivity" image="airbnb" />
+    <!-- AliExpress -->
+    <AppIcon name="com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity" image="aliexpress" />
+    <!-- Apple Music -->
+    <AppIcon name="com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity" image="apple_music" />
+    <!-- CamScanner -->
+    <AppIcon name="com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity" image="camscanner" />
+    <!-- CCleaner -->
+    <AppIcon name="com.piriform.ccleaner/com.piriform.ccleaner.ui.activity.MainActivity" image="ccleaner" />
+    <!-- Earth -->
+    <AppIcon name="com.google.earth/com.google.android.apps.earth.EarthActivity" image="google_earth" />
+    <!-- Equalizer -->
+    <AppIcon name="com.android.musicfx/com.android.musicfx.ActivityMusic" image="equalizer" />
+    <!-- Evernote -->
+    <AppIcon name="com.evernote/com.evernote.ui.HomeActivity" image="evernote" />
+    <!-- Firefox -->
+    <AppIcon name="org.mozilla.firefox/org.mozilla.firefox.App" image="firefox" />
+    <!-- Flipboard -->
+    <AppIcon name="flipboard.app/flipboard.activities.LaunchActivityAlias" image="flipboard" />
+    <!-- Kustom LWP -->
+    <AppIcon name="org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity" image="klwp" />
+    <!-- MEGA -->
+    <AppIcon name="mega.privacy.android.app/mega.privacy.android.app.LauncherActivity" image="mega" />
+    <!-- Muzei -->
+    <AppIcon name="net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity" image="muzei" />
+    <!-- Netflix -->
+    <AppIcon name="com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity" image="netflix" />
+    <!-- OneDrive -->
+    <AppIcon name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity" image="onedrive" />
+    <!-- PayPal -->
+    <AppIcon name="com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity" image="paypal" />
+    <!-- Pocket -->
+    <AppIcon name="com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity" image="pocket" />
+    <!-- Pokémon GO -->
+    <AppIcon name="com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerActivity" image="pokemon_go" />
+    <!-- Pushbullet -->
+    <AppIcon name="com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity" image="pushbullet" />
+    <!-- Screener -->
+    <AppIcon name="de.toastcode.screener/de.toastcode.screener.LaunchActivity" image="screener" />
+    <!-- Telegram -->
+    <AppIcon name="org.telegram.messenger/org.telegram.ui.LaunchActivity" image="telegram" />
+    <!-- Tinder -->
+    <AppIcon name="com.tinder/com.tinder.activities.LoginActivity" image="tinder" />
+    <!-- WeChat -->
+    <AppIcon name="com.tencent.mm/com.tencent.mm.ui.LauncherUI" image="wechat" />
+
 </Theme>
