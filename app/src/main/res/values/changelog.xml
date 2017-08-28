@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">22 August, 2017</string>
+    <string name="changelog_date">28 August, 2017</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -12,6 +12,7 @@
         <item><![CDATA[
         <b>Increased amount of free requests to 15 for a limited time only, get your requests in today!</b>
         ]]></item>
+        <item>New app icon</item>
         <item><![CDATA[
         Added new icons, and touched up on some old ones
         ]]></item>

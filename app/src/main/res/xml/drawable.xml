@@ -122,6 +122,7 @@
     <item drawable="keep" />
     <item drawable="keepass2android" />
     <item drawable="kustom_widget" />
+    <item drawable="klwp" />
 
     <category title="L" />
     <item drawable="lol_friends" />
