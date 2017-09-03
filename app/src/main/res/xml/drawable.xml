@@ -3,32 +3,35 @@
     <version>1</version>
 
     <category title="Newly Added" />
-    <item drawable="o17track" />
-    <item drawable="o17track_alt" />
-    <item drawable="airbnb" />
-    <item drawable="aliexpress" />
-    <item drawable="apple_music" />
-    <item drawable="camscanner" />
-    <item drawable="ccleaner" />
-    <item drawable="google_earth" />
-    <item drawable="evernote" />
-    <item drawable="equalizer" />
-    <item drawable="muzei" />
-    <item drawable="onedrive" />
-    <item drawable="flipboard" />
-    <item drawable="firefox" />
-    <item drawable="mega" />
-    <item drawable="netflix" />
-    <item drawable="paypal" />
-    <item drawable="pocket" />
-    <item drawable="klwp" />
-    <item drawable="pokemon_go" />
-    <item drawable="pushbullet" />
-    <item drawable="screener" />
-    <item drawable="telegram" />
-    <item drawable="tinder" />
-    <item drawable="wechat" />
-    <item drawable="hangouts" />
+    <item drawable="newpipe" />
+    <item drawable="perfect_viewer" />
+    <item drawable="mi_remote" />
+    <item drawable="nori" />
+    <item drawable="gonemad" />
+    <item drawable="magisk_manager" />
+    <item drawable="yahoo_weather" />
+    <item drawable="yahoo_mail" />
+    <item drawable="ifttt" />
+    <item drawable="ms_word" />
+    <item drawable="ms_onenote" />
+    <item drawable="ms_excel" />
+    <item drawable="ss_calculator" />
+    <item drawable="ss_calendar" />
+    <item drawable="ss_camera" />
+    <item drawable="phonograph" />
+    <item drawable="commbank" />
+    <item drawable="ss_clock" />
+    <item drawable="ticktick" />
+    <item drawable="line" />
+    <item drawable="firefox_focus" />
+    <item drawable="sync" />
+    <item drawable="anyme" />
+    <item drawable="duo" />
+    <item drawable="snow" />
+    <item drawable="join" />
+    <item drawable="kitchenstories" />
+    <item drawable="adwords" />
+    <item drawable="supersu" />
 
     <category title="0-9" />
     <item drawable="o17track" />
@@ -46,6 +49,8 @@
     <item drawable="airbnb" />
     <item drawable="aliexpress" />
     <item drawable="apple_music" />
+    <item drawable="anyme" />
+    <item drawable="adwords" />
 
     <category title="B" />
     <item drawable="boost" />
@@ -69,6 +74,7 @@
     <item drawable="contacts_alt_6" />
     <item drawable="camscanner" />
     <item drawable="ccleaner" />
+    <item drawable="commbank" />
 
     <category title="D" />
     <item drawable="devtools" />
@@ -79,6 +85,7 @@
     <item drawable="downloads" />
     <item drawable="drive" />
     <item drawable="dropbox" />
+    <item drawable="duo" />
 
 
     <category title="E" />
@@ -93,6 +100,7 @@
     <item drawable="fm_radio" />
     <item drawable="flipboard" />
     <item drawable="firefox" />
+    <item drawable="firefox_focus" />
 
     <category title="G" />
     <item drawable="gallery" />
@@ -107,6 +115,7 @@
     <item drawable="greenify" />
     <item drawable="guitartuna" />
     <item drawable="google_earth" />
+    <item drawable="gonemad" />
 
     <category title="H" />
     <item drawable="hangouts" />
@@ -115,17 +124,21 @@
 
     <category title="I" />
     <item drawable="instagram" />
+    <item drawable="ifttt" />
 
     <category title="J" />
+    <item drawable="join" />
 
     <category title="K" />
     <item drawable="keep" />
     <item drawable="keepass2android" />
     <item drawable="kustom_widget" />
     <item drawable="klwp" />
+    <item drawable="kitchenstories" />
 
     <category title="L" />
     <item drawable="lol_friends" />
+    <item drawable="line" />
 
     <category title="M" />
     <item drawable="maps" />
@@ -139,11 +152,18 @@
     <item drawable="muzei" />
     <item drawable="mega" />
     <item drawable="mega_alt" />
+    <item drawable="mi_remote" />
+    <item drawable="magisk_manager" />
+    <item drawable="ms_word" />
+    <item drawable="ms_onenote" />
+    <item drawable="ms_excel" />
 
     <category title="N" />
     <item drawable="news_weather" />
     <item drawable="nova_launcher" />
     <item drawable="netflix" />
+    <item drawable="newpipe" />
+    <item drawable="nori" />
 
     <category title="O" />
     <item drawable="onedrive" />
@@ -163,6 +183,8 @@
     <item drawable="pocket" />
     <item drawable="pokemon_go" />
     <item drawable="pushbullet" />
+    <item drawable="perfect_viewer" />
+    <item drawable="phonograph" />
 
     <category title="Q" />
 
@@ -186,6 +208,13 @@
     <item drawable="sporing" />
     <item drawable="spotify" />
     <item drawable="screener" />
+    <item drawable="ss_calculator" />
+    <item drawable="ss_calendar" />
+    <item drawable="sync" />
+    <item drawable="snow" />
+    <item drawable="supersu" />
+    <item drawable="ss_camera" />
+    <item drawable="ss_clock" />
 
     <category title="T" />
     <item drawable="tachiyomi" />
@@ -200,6 +229,7 @@
     <item drawable="twrp" />
     <item drawable="telegram" />
     <item drawable="tinder" />
+    <item drawable="ticktick" />
 
     <category title="U" />
 
@@ -220,6 +250,8 @@
 
     <category title="Y" />
     <item drawable="youtube" />
+    <item drawable="yahoo_weather" />
+    <item drawable="yahoo_mail" />
 
     <category title="Z" />
 

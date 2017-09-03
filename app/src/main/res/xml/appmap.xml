@@ -316,4 +316,65 @@
     <!-- WeChat -->
     <item class="com.tencent.mm" name="wechat" />
 
+    <!-- 1.1.1 -->
+
+    <!-- GoneMAD Music Player -->
+    <item class="gonemad.gmmp" name="gonemad" />
+    <!-- Magisk Manager -->
+    <item class="com.topjohnwu.magisk" name="magisk_manager" />
+    <!-- Mi Remote -->
+    <item class="com.duokan.phone.remotecontroller" name="mi_remote" />
+    <!-- NewPipe -->
+    <item class="org.schabi.newpipe" name="newpipe" />
+    <!-- Nori -->
+    <item class="io.github.tjg1.nori" name="nori" />
+    <!-- Perfect Viewer -->
+    <item class="com.rookiestudio.perfectviewer" name="perfect_viewer" />
+    <!-- anYme -->
+    <item class="com.zunjae.anyme" name="anyme" />
+    <!-- Calculator -->
+    <item class="com.sec.android.app.popupcalculator" name="ss_calculator" />
+    <!-- Calendar -->
+    <item class="com.samsung.android.calendar" name="ss_calendar_" />
+    <!-- Camera -->
+    <item class="com.sec.android.app.camera" name="ss_camera" />
+    <!-- Clock -->
+    <item class="com.sec.android.app.clockpackage" name="ss_clock" />
+    <!-- Duo -->
+    <item class="com.google.android.apps.tachyon" name="duo" />
+    <!-- Firefox Focus -->
+    <item class="org.mozilla.focus" name="firefox_focus" />
+    <!-- Join -->
+    <item class="com.joaomgcd.join" name="join" />
+    <!-- Kitchen Stories -->
+    <item class="com.ajnsnewmedia.kitchenstories" name="kitchenstories" />
+    <!-- LINE -->
+    <item class="jp.naver.line.android" name="line" />
+    <!-- Phonograph -->
+    <item class="com.kabouzeid.gramophone" name="phonograph" />
+    <!-- SNOW -->
+    <item class="com.campmobile.snow" name="snow" />
+    <!-- Sync -->
+    <item class="com.laurencedawson.reddit_sync" name="sync" />
+    <!-- CommBank -->
+    <item class="com.commbank.netbank" name="commbank" />
+    <!-- TickTick -->
+    <item class="com.ticktick.task" name="ticktick" />
+    <!-- AdWords -->
+    <item class="com.google.android.apps.adwords" name="adwords" />
+    <!-- Excel -->
+    <item class="com.microsoft.office.excel" name="ms_excel" />
+    <!-- IFTTT -->
+    <item class="com.ifttt.ifttt" name="ifttt" />
+    <!-- OneNote -->
+    <item class="com.microsoft.office.onenote" name="ms_onenote" />
+    <!-- SuperSU -->
+    <item class="eu.chainfire.supersu" name="supersu" />
+    <!-- Weather -->
+    <item class="com.yahoo.mobile.client.android.weather" name="yahoo_weather" />
+    <!-- Word -->
+    <item class="com.microsoft.office.word" name="ms_word" />
+    <!-- Yahoo Mail -->
+    <item class="com.yahoo.mobile.client.android.mail" name="yahoo_mail" />
+
 </appmap>
