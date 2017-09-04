@@ -340,13 +340,13 @@
     <!-- anYme -->
     <AppIcon name="com.zunjae.anyme/com.zunjae.anyme.AnymeActivity" image="anyme" />
     <!-- Calculator -->
-    <AppIcon name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator" image="ss_calculator" />
+    <AppIcon name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator" image="samsung_calculator" />
     <!-- Calendar -->
-    <AppIcon name="com.samsung.android.calendar/com.android.calendar.AllInOneActivity" image="ss_calendar_" />
+    <AppIcon name="com.samsung.android.calendar/com.android.calendar.AllInOneActivity" image="samsung_calendar_" />
     <!-- Camera -->
-    <AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="ss_camera" />
+    <AppIcon name="com.sec.android.app.camera/com.sec.android.app.camera.Camera" image="samsung_camera" />
     <!-- Clock -->
-    <AppIcon name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage" image="ss_clock" />
+    <AppIcon name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage" image="samsung_clock" />
     <!-- Duo -->
     <AppIcon name="com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity" image="duo" />
     <!-- Firefox Focus -->

@@ -15,12 +15,12 @@
     <item drawable="ms_word" />
     <item drawable="ms_onenote" />
     <item drawable="ms_excel" />
-    <item drawable="ss_calculator" />
-    <item drawable="ss_calendar" />
-    <item drawable="ss_camera" />
+    <item drawable="samsung_calculator" />
+    <item drawable="samsung_calendar" />
+    <item drawable="samsung_camera" />
     <item drawable="phonograph" />
     <item drawable="commbank" />
-    <item drawable="ss_clock" />
+    <item drawable="samsung_clock" />
     <item drawable="ticktick" />
     <item drawable="line" />
     <item drawable="firefox_focus" />
@@ -208,13 +208,13 @@
     <item drawable="sporing" />
     <item drawable="spotify" />
     <item drawable="screener" />
-    <item drawable="ss_calculator" />
-    <item drawable="ss_calendar" />
+    <item drawable="samsung_calculator" />
+    <item drawable="samsung_calendar" />
     <item drawable="sync" />
     <item drawable="snow" />
     <item drawable="supersu" />
-    <item drawable="ss_camera" />
-    <item drawable="ss_clock" />
+    <item drawable="samsung_camera" />
+    <item drawable="samsung_clock" />
 
     <category title="T" />
     <item drawable="tachiyomi" />

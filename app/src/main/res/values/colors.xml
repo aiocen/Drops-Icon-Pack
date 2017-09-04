@@ -11,7 +11,7 @@
     
     <!-- Navigation Bar
     * Must be solid color, no alpha -->
-    <color name="navigationBar">#f2ce85</color>
+    <color name="navigationBar">#949494</color>
     <color name="navigationBarDark">#000000</color>
 
     <!-- Splash Screen -->

@@ -333,13 +333,13 @@
     <!-- anYme -->
     <item class="com.zunjae.anyme" name="anyme" />
     <!-- Calculator -->
-    <item class="com.sec.android.app.popupcalculator" name="ss_calculator" />
+    <item class="com.sec.android.app.popupcalculator" name="samsung_calculator" />
     <!-- Calendar -->
-    <item class="com.samsung.android.calendar" name="ss_calendar_" />
+    <item class="com.samsung.android.calendar" name="samsung_calendar_" />
     <!-- Camera -->
-    <item class="com.sec.android.app.camera" name="ss_camera" />
+    <item class="com.sec.android.app.camera" name="samsung_camera" />
     <!-- Clock -->
-    <item class="com.sec.android.app.clockpackage" name="ss_clock" />
+    <item class="com.sec.android.app.clockpackage" name="samsung_clock" />
     <!-- Duo -->
     <item class="com.google.android.apps.tachyon" name="duo" />
     <!-- Firefox Focus -->
