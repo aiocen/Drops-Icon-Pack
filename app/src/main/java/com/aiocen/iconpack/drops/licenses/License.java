@@ -48,8 +48,7 @@ public class License {
      * Format: new InAppBilling("premium request product id", number of icons)
      */
     private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[] {
-            new InAppBilling("com.aiocen.iconpack.drops.request1", 5),
-            new InAppBilling("com.aiocen.iconpack.drops.request20", 20)
+            new InAppBilling("com.aiocen.iconpack.drops.request1", 10),
     };
 
     /*
@@ -61,7 +60,6 @@ public class License {
      * Format: new InAppBilling("donation product id")
      */
     private static final InAppBilling[] DONATION_PRODUCT = new InAppBilling[] {
-            new InAppBilling("com.aiocen.iconpack.drops.donate10"),
             new InAppBilling("com.aiocen.iconpack.drops.donate20"),
             new InAppBilling("com.aiocen.iconpack.drops.donate50"),
             new InAppBilling("com.aiocen.iconpack.drops.donate100")

@@ -380,5 +380,111 @@
 	<!-- Yahoo Mail -->
 	<item component="ComponentInfo{com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity}" drawable="yahoo_mail" />
 
+    <!-- 1.1.2 -->
+
+    <!--  Flashlight -->
+    <item component="ComponentInfo{com.surpax.ledflashlight.panel/com.surpax.ledflashlight.FlashlightActivity}" drawable="flashlight" />
+    <!-- 360 Security -->
+    <item component="ComponentInfo{com.qihoo.security/com.qihoo.security.AppEnterActivity}" drawable="o360_security" />
+    <!-- AntiVirus -->
+    <item component="ComponentInfo{com.antivirus/com.avast.android.mobilesecurity.app.main.MainActivity}" drawable="avg" />
+    <!-- Battery Doctor -->
+    <item component="ComponentInfo{com.ijinshan.kbatterydoctor_en/com.bd.ui.main.MainActivity}" drawable="battery_doctor" />
+    <!-- BBM -->
+    <item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm" />
+    <!-- Camera360 -->
+    <item component="ComponentInfo{vStudio.Android.Camera360/vStudio.Android.Camera360.activity.CameraActivity}" drawable="camera360" />
+    <!-- Chrome Canary -->
+    <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="chrome_canary" />
+    <!-- Clean Master -->
+    <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="clean_master" />
+    <!-- DU Battery Saver -->
+    <item component="ComponentInfo{com.dianxinos.dxbs/com.dianxinos.powermanager.PowerMgrActivity}" drawable="du_battery_saver" />
+    <!-- DU Speed Booster -->
+    <item component="ComponentInfo{com.dianxinos.optimizer.duplay/com.dianxinos.optimizer.module.splash.EnteringSplashActivity}" drawable="du_speed_booster" />
+    <!-- Duolingo -->
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
+    <!-- ES File Explorer -->
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="es_file_explorer" />
+    <!-- Flud -->
+    <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="flud" />
+    <!-- Lite -->
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook_lite" />
+    <!-- Nintendo Switch Online -->
+    <item component="ComponentInfo{com.nintendo.znca/md533b117125e779ee5bd2742126a94a846.MainActivity}" drawable="nintendo_switch_online" />
+    <!-- Opera Mini -->
+    <item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera" />
+    <!-- PhotoGrid -->
+    <item component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.MainPage}" drawable="photogrid" />
+    <!-- PicsArt -->
+    <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart" />
+    <!-- Retrica -->
+    <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.camera.CameraActivity}" drawable="retrica" />
+    <!-- Security Master -->
+    <item component="ComponentInfo{com.cleanmaster.security/ks.cm.antivirus.main.SplashActivity}" drawable="security_master" />
+    <!-- Street View -->
+    <item component="ComponentInfo{com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity}" drawable="google_street_view" />
+    <!-- Truecaller -->
+    <item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="truecaller" />
+    <!-- UC Browser -->
+    <item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
+    <!-- VivaVideo -->
+    <item component="ComponentInfo{com.quvideo.xiaoying/com.quvideo.xiaoying.app.SplashActivity}" drawable="vivavideo" />
+    <!-- VK -->
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk" />
+    <!-- Waze -->
+    <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
+    <!-- 文法ガイド -->
+    <item component="ComponentInfo{com.alexisblaze.japanese_grammar/com.alexisblaze.japanese_grammar.LauncherActivity}" drawable="taekim_japanese" />
+    <!-- 杂志迷 -->
+    <item component="ComponentInfo{com.zk.dan.zazhimi/com.zk.dan.zazhimi.activity.AvWelcome}" drawable="zazhimi" />
+	<!-- Flamingo -->
+	<item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher1}" drawable="flamingo" />
+	<!-- Moon+ Reader Pro -->
+	<item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader" />
+
+    <!-- 1.1.3 -->
+
+    <!-- Alto -->
+    <item component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}" drawable="altos_adventure" />
+    <!-- Amazon Kindle -->
+    <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle" />
+    <!-- AppLock -->
+    <item component="ComponentInfo{com.domobile.applock/com.domobile.applock.LauncherActivity}" drawable="applock" />
+    <!-- Barcode Scanner -->
+    <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode_scanner" />
+    <!-- Camera -->
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="oneplus_camera" />
+    <!-- ColorNote -->
+    <item component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}" drawable="notes" />
+    <!-- IMDb -->
+    <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="imdb" />
+    <!-- KakaoTalk -->
+    <item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="kakaotalk" />
+    <!-- Kik -->
+    <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
+    <!-- Memrise -->
+    <item component="ComponentInfo{com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity}" drawable="memrise" />
+    <!-- Neko Atsume -->
+    <item component="ComponentInfo{jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity}" drawable="neko_atsume" />
+    <!-- Outlook -->
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="ms_outlook" />
+    <!-- Pandora -->
+    <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="pandora" />
+    <!-- Pinterest -->
+    <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
+    <!-- TripAdvisor -->
+    <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="tripadvisor" />
+    <!-- TuneIn Radio -->
+    <item component="ComponentInfo{tunein.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="tunein" />
+    <!-- Uber -->
+    <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber" />
+    <!-- Wish -->
+    <item component="ComponentInfo{com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity}" drawable="wish" />
+    <!-- Xender -->
+    <item component="ComponentInfo{cn.xender/cn.xender.ui.activity.SplashActivity}" drawable="xender" />
+    <!-- µTorrent -->
+    <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.EntryActivity}" drawable="utorrent" />
+
 
 </resources>

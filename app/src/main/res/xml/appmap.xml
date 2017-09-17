@@ -377,4 +377,110 @@
     <!-- Yahoo Mail -->
     <item class="com.yahoo.mobile.client.android.mail" name="yahoo_mail" />
 
+    <!-- 1.1.2 -->
+
+    <!--  Flashlight -->
+    <item class="com.surpax.ledflashlight.panel" name="flashlight" />
+    <!-- 360 Security -->
+    <item class="com.qihoo.security" name="o360_security" />
+    <!-- AntiVirus -->
+    <item class="com.antivirus" name="avg" />
+    <!-- Battery Doctor -->
+    <item class="com.ijinshan.kbatterydoctor_en" name="battery_doctor" />
+    <!-- BBM -->
+    <item class="com.bbm" name="bbm" />
+    <!-- Camera360 -->
+    <item class="vStudio.Android.Camera360" name="camera360" />
+    <!-- Chrome Canary -->
+    <item class="com.chrome.canary" name="chrome_canary" />
+    <!-- Clean Master -->
+    <item class="com.cleanmaster.mguard" name="clean_master" />
+    <!-- DU Battery Saver -->
+    <item class="com.dianxinos.dxbs" name="du_battery_saver" />
+    <!-- DU Speed Booster -->
+    <item class="com.dianxinos.optimizer.duplay" name="du_speed_booster" />
+    <!-- Duolingo -->
+    <item class="com.duolingo" name="duolingo" />
+    <!-- ES File Explorer -->
+    <item class="com.estrongs.android.pop" name="es_file_explorer" />
+    <!-- Flud -->
+    <item class="com.delphicoder.flud" name="flud" />
+    <!-- Lite -->
+    <item class="com.facebook.lite" name="facebook_lite" />
+    <!-- Nintendo Switch Online -->
+    <item class="com.nintendo.znca" name="nintendo_switch_online" />
+    <!-- Opera Mini -->
+    <item class="com.opera.mini.native" name="opera" />
+    <!-- PhotoGrid -->
+    <item class="com.roidapp.photogrid" name="photogrid" />
+    <!-- PicsArt -->
+    <item class="com.picsart.studio" name="picsart" />
+    <!-- Retrica -->
+    <item class="com.venticake.retrica" name="retrica" />
+    <!-- Security Master -->
+    <item class="com.cleanmaster.security" name="security_master" />
+    <!-- Street View -->
+    <item class="com.google.android.street" name="google_street_view" />
+    <!-- Truecaller -->
+    <item class="com.truecaller" name="truecaller" />
+    <!-- UC Browser -->
+    <item class="com.UCMobile.intl" name="uc_browser" />
+    <!-- VivaVideo -->
+    <item class="com.quvideo.xiaoying" name="vivavideo" />
+    <!-- VK -->
+    <item class="com.vkontakte.android" name="vk" />
+    <!-- Waze -->
+    <item class="com.waze" name="waze" />
+    <!-- 文法ガイド -->
+    <item class="com.alexisblaze.japanese_grammar" name="taekim_japanese" />
+    <!-- 杂志迷 -->
+    <item class="com.zk.dan.zazhimi" name="zazhimi" />
+    <!-- Flamingo -->
+    <item class="com.samruston.twitter" name="flamingo" />
+    <!-- Moon+ Reader Pro -->
+    <item class="com.flyersoft.moonreaderp" name="moon_reader" />
+
+    <!-- 1.1.3 -->
+
+    <!-- Alto -->
+    <item class="com.noodlecake.altosadventure" name="altos_adventure" />
+    <!-- Amazon Kindle -->
+    <item class="com.amazon.kindle" name="kindle" />
+    <!-- AppLock -->
+    <item class="com.domobile.applock" name="applock" />
+    <!-- Barcode Scanner -->
+    <item class="com.google.zxing.client.android" name="barcode_scanner" />
+    <!-- Camera -->
+    <item class="com.oneplus.camera" name="oneplus_camera" />
+    <!-- ColorNote -->
+    <item class="com.socialnmobile.dictapps.notepad.color.note" name="notes" />
+    <!-- IMDb -->
+    <item class="com.imdb.mobile" name="imdb" />
+    <!-- KakaoTalk -->
+    <item class="com.kakao.talk" name="kakaotalk" />
+    <!-- Kik -->
+    <item class="kik.android" name="kik" />
+    <!-- Memrise -->
+    <item class="com.memrise.android.memrisecompanion" name="memrise" />
+    <!-- Neko Atsume -->
+    <item class="jp.co.hit_point.nekoatsume" name="neko_atsume" />
+    <!-- Outlook -->
+    <item class="com.microsoft.office.outlook" name="ms_outlook" />
+    <!-- Pandora -->
+    <item class="com.pandora.android" name="pandora" />
+    <!-- Pinterest -->
+    <item class="com.pinterest" name="pinterest" />
+    <!-- TripAdvisor -->
+    <item class="com.tripadvisor.tripadvisor" name="tripadvisor" />
+    <!-- TuneIn Radio -->
+    <item class="tunein.player" name="tunein" />
+    <!-- Uber -->
+    <item class="com.ubercab" name="uber" />
+    <!-- Wish -->
+    <item class="com.contextlogic.wish" name="wish" />
+    <!-- Xender -->
+    <item class="cn.xender" name="xender" />
+    <!-- µTorrent -->
+    <item class="com.utorrent.client" name="utorrent" />
+
 </appmap>

@@ -112,7 +112,7 @@
     * IGNORE if icon request limit is disabled
     * ex: If you set icon request limit to 10, user only able to make 10 icon request in all time
     * After making 10 icon request user not able to request again -->
-    <integer name="icon_request_limit">15</integer>
+    <integer name="icon_request_limit">5</integer>
 
     <!-- Reset regular icon request limit every update
     * IGNORE if icon request limit is disabled
@@ -120,7 +120,7 @@
     * but you also want user able to make 10 request again after update, then enable this option
     * default: false
     * change to true to enable it -->
-    <bool name="reset_icon_request_limit">true</bool>
+    <bool name="reset_icon_request_limit">false</bool>
 
     <!-- Enable or disable premium request
     * default: false

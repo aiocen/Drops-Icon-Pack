@@ -384,4 +384,110 @@
     <!-- Yahoo Mail -->
     <AppIcon name="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity" image="yahoo_mail" />
 
+    <!-- 1.1.2 -->
+
+    <!--  Flashlight -->
+    <AppIcon name="com.surpax.ledflashlight.panel/com.surpax.ledflashlight.FlashlightActivity" image="flashlight" />
+    <!-- 360 Security -->
+    <AppIcon name="com.qihoo.security/com.qihoo.security.AppEnterActivity" image="o360_security" />
+    <!-- AntiVirus -->
+    <AppIcon name="com.antivirus/com.avast.android.mobilesecurity.app.main.MainActivity" image="avg" />
+    <!-- Battery Doctor -->
+    <AppIcon name="com.ijinshan.kbatterydoctor_en/com.bd.ui.main.MainActivity" image="battery_doctor" />
+    <!-- BBM -->
+    <AppIcon name="com.bbm/com.bbm.ui.activities.StartupActivity" image="bbm" />
+    <!-- Camera360 -->
+    <AppIcon name="vStudio.Android.Camera360/vStudio.Android.Camera360.activity.CameraActivity" image="camera360" />
+    <!-- Chrome Canary -->
+    <AppIcon name="com.chrome.canary/com.google.android.apps.chrome.Main" image="chrome_canary" />
+    <!-- Clean Master -->
+    <AppIcon name="com.cleanmaster.mguard/com.keniu.security.main.MainActivity" image="clean_master" />
+    <!-- DU Battery Saver -->
+    <AppIcon name="com.dianxinos.dxbs/com.dianxinos.powermanager.PowerMgrActivity" image="du_battery_saver" />
+    <!-- DU Speed Booster -->
+    <AppIcon name="com.dianxinos.optimizer.duplay/com.dianxinos.optimizer.module.splash.EnteringSplashActivity" image="du_speed_booster" />
+    <!-- Duolingo -->
+    <AppIcon name="com.duolingo/com.duolingo.app.LoginActivity" image="duolingo" />
+    <!-- ES File Explorer -->
+    <AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" image="es_file_explorer" />
+    <!-- Flud -->
+    <AppIcon name="com.delphicoder.flud/com.delphicoder.flud.MainActivity" image="flud" />
+    <!-- Lite -->
+    <AppIcon name="com.facebook.lite/com.facebook.lite.MainActivity" image="facebook_lite" />
+    <!-- Nintendo Switch Online -->
+    <AppIcon name="com.nintendo.znca/md533b117125e779ee5bd2742126a94a846.MainActivity" image="nintendo_switch_online" />
+    <!-- Opera Mini -->
+    <AppIcon name="com.opera.mini.native/com.opera.mini.android.Browser" image="opera" />
+    <!-- PhotoGrid -->
+    <AppIcon name="com.roidapp.photogrid/com.roidapp.photogrid.MainPage" image="photogrid" />
+    <!-- PicsArt -->
+    <AppIcon name="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity" image="picsart" />
+    <!-- Retrica -->
+    <AppIcon name="com.venticake.retrica/com.venticake.retrica.camera.CameraActivity" image="retrica" />
+    <!-- Security Master -->
+    <AppIcon name="com.cleanmaster.security/ks.cm.antivirus.main.SplashActivity" image="security_master" />
+    <!-- Street View -->
+    <AppIcon name="com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity" image="google_street_view" />
+    <!-- Truecaller -->
+    <AppIcon name="com.truecaller/com.truecaller.ui.TruecallerInit" image="truecaller" />
+    <!-- UC Browser -->
+    <AppIcon name="com.UCMobile.intl/com.UCMobile.main.UCMobile" image="uc_browser" />
+    <!-- VivaVideo -->
+    <AppIcon name="com.quvideo.xiaoying/com.quvideo.xiaoying.app.SplashActivity" image="vivavideo" />
+    <!-- VK -->
+    <AppIcon name="com.vkontakte.android/com.vkontakte.android.MainActivity" image="vk" />
+    <!-- Waze -->
+    <AppIcon name="com.waze/com.waze.FreeMapAppActivity" image="waze" />
+    <!-- 文法ガイド -->
+    <AppIcon name="com.alexisblaze.japanese_grammar/com.alexisblaze.japanese_grammar.LauncherActivity" image="taekim_japanese" />
+    <!-- 杂志迷 -->
+    <AppIcon name="com.zk.dan.zazhimi/com.zk.dan.zazhimi.activity.AvWelcome" image="zazhimi" />
+    <!-- Flamingo -->
+    <AppIcon name="com.samruston.twitter/com.samruston.twitter.Launcher1" image="flamingo" />
+    <!-- Moon+ Reader Pro -->
+    <AppIcon name="com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain" image="moon_reader" />
+
+    <!-- 1.1.3 -->
+
+    <!-- Alto -->
+    <AppIcon name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity" image="altos_adventure" />
+    <!-- Amazon Kindle -->
+    <AppIcon name="com.amazon.kindle/com.amazon.kindle.UpgradePage" image="kindle" />
+    <!-- AppLock -->
+    <AppIcon name="com.domobile.applock/com.domobile.applock.LauncherActivity" image="applock" />
+    <!-- Barcode Scanner -->
+    <AppIcon name="com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity" image="barcode_scanner" />
+    <!-- Camera -->
+    <AppIcon name="com.oneplus.camera/com.oneplus.camera.OPCameraActivity" image="oneplus_camera" />
+    <!-- ColorNote -->
+    <AppIcon name="com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main" image="notes" />
+    <!-- IMDb -->
+    <AppIcon name="com.imdb.mobile/com.imdb.mobile.HomeActivity" image="imdb" />
+    <!-- KakaoTalk -->
+    <AppIcon name="com.kakao.talk/com.kakao.talk.activity.SplashActivity" image="kakaotalk" />
+    <!-- Kik -->
+    <AppIcon name="kik.android/kik.android.chat.activity.IntroActivity" image="kik" />
+    <!-- Memrise -->
+    <AppIcon name="com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity" image="memrise" />
+    <!-- Neko Atsume -->
+    <AppIcon name="jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity" image="neko_atsume" />
+    <!-- Outlook -->
+    <AppIcon name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" image="ms_outlook" />
+    <!-- Pandora -->
+    <AppIcon name="com.pandora.android/com.pandora.android.Main" image="pandora" />
+    <!-- Pinterest -->
+    <AppIcon name="com.pinterest/com.pinterest.activity.PinterestActivity" image="pinterest" />
+    <!-- TripAdvisor -->
+    <AppIcon name="com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity" image="tripadvisor" />
+    <!-- TuneIn Radio -->
+    <AppIcon name="tunein.player/tunein.ui.actvities.TuneInHomeActivity" image="tunein" />
+    <!-- Uber -->
+    <AppIcon name="com.ubercab/com.ubercab.presidio.app.core.root.RootActivity" image="uber" />
+    <!-- Wish -->
+    <AppIcon name="com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity" image="wish" />
+    <!-- Xender -->
+    <AppIcon name="cn.xender/cn.xender.ui.activity.SplashActivity" image="xender" />
+    <!-- µTorrent -->
+    <AppIcon name="com.utorrent.client/com.bittorrent.client.EntryActivity" image="utorrent" />
+
 </Theme>
