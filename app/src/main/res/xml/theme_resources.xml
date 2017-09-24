@@ -490,4 +490,41 @@
     <!-- µTorrent -->
     <AppIcon name="com.utorrent.client/com.bittorrent.client.EntryActivity" image="utorrent" />
 
+    <!-- 1.1.4 -->
+
+    <!-- Air NZ -->
+    <AppIcon name="nz.co.airnz.mpass/nz.co.airnz.mpass.activities.Home" image="air_nz" />
+    <!-- Co-operative Bank -->
+    <AppIcon name="nz.co.cooperativebank/nz.co.cooperativebank.ui.home.HomeActivity" image="co_operative_bank" />
+    <!-- Contacts -->
+    <AppIcon name="com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity" image="samsung_contacts" />
+    <!-- goMoney NZ -->
+    <AppIcon name="nz.co.anz.android.mobilebanking/nz.co.anz.android.mobilebanking.ui.CoreActivity" image="gomoney_nz" />
+    <!-- Messages -->
+    <AppIcon name="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer" image="samsung_messages" />
+    <!-- SKY TV -->
+    <AppIcon name="nz.co.skyepg/nz.co.skyepg.loading.LoadingActivity" image="sky_tv" />
+    <!-- SkyGo -->
+    <AppIcon name="nz.co.skytv.skyconrad/nz.co.skytv.skyconrad.activities.main.PromoActivity" image="sky_go" />
+    <!-- Snapseed -->
+    <AppIcon name="com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity" image="snapseed" />
+    <!-- Swipe -->
+    <AppIcon name="com.happening.studios.swipeforfacebookfree/com.happening.studios.swipeforfacebookfree.activities.SplashActivity" image="swipe" />
+    <!-- Walking Dead -->
+    <AppIcon name="com.scopely.headshot/com.iugome.igl.Activity" image="twd" />
+    <!-- Camera -->
+    <AppIcon name="org.codeaurora.snapcam/com.android.camera.CameraLauncher" image="pa_camera" />
+    <!-- Gallery -->
+    <AppIcon name="org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity" image="gallery" />
+    <!-- Japanese Listening Practice -->
+    <AppIcon name="com.andromo.dev28487.app267707/com.andromo.dev28487.app267707.Dashboard_000" image="japanese_listening" />
+    <!-- Mobilism Market -->
+    <AppIcon name="org.mobilism.android/org.mobilism.android.Main" image="mobilism" />
+    <!-- PA Browser -->
+    <AppIcon name="com.paranoidandroid.browser/com.google.android.apps.chrome.Main" image="pa_browser" />
+    <!-- Sound Recorder -->
+    <AppIcon name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder" image="sound_recorder" />
+    <!-- WEAR -->
+    <AppIcon name="com.starttoday.android.wear/com.starttoday.android.wear.main.MainActivity" image="wear" />
+
 </Theme>

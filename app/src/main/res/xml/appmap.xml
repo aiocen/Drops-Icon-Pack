@@ -483,4 +483,41 @@
     <!-- µTorrent -->
     <item class="com.utorrent.client" name="utorrent" />
 
+    <!-- 1.1.4 -->
+
+    <!-- Air NZ -->
+    <item class="nz.co.airnz.mpass" name="air_nz" />
+    <!-- Co-operative Bank -->
+    <item class="nz.co.cooperativebank" name="co_operative_bank" />
+    <!-- Contacts -->
+    <item class="com.samsung.android.contacts" name="samsung_contacts" />
+    <!-- goMoney NZ -->
+    <item class="nz.co.anz.android.mobilebanking" name="gomoney_nz" />
+    <!-- Messages -->
+    <item class="com.samsung.android.messaging" name="samsung_messages" />
+    <!-- SKY TV -->
+    <item class="nz.co.skyepg" name="sky_tv" />
+    <!-- SkyGo -->
+    <item class="nz.co.skytv.skyconrad" name="sky_go" />
+    <!-- Snapseed -->
+    <item class="com.niksoftware.snapseed" name="snapseed" />
+    <!-- Swipe -->
+    <item class="com.happening.studios.swipeforfacebookfree" name="swipe" />
+    <!-- Walking Dead -->
+    <item class="com.scopely.headshot" name="twd" />
+    <!-- Camera -->
+    <item class="org.codeaurora.snapcam" name="pa_camera" />
+    <!-- Gallery -->
+    <item class="org.codeaurora.gallery" name="gallery" />
+    <!-- Japanese Listening Practice -->
+    <item class="com.andromo.dev28487.app267707" name="japanese_listening" />
+    <!-- Mobilism Market -->
+    <item class="org.mobilism.android" name="mobilism" />
+    <!-- PA Browser -->
+    <item class="com.paranoidandroid.browser" name="pa_browser" />
+    <!-- Sound Recorder -->
+    <item class="com.android.soundrecorder" name="sound_recorder" />
+    <!-- WEAR -->
+    <item class="com.starttoday.android.wear" name="wear" />
+
 </appmap>

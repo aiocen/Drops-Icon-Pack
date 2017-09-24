@@ -486,5 +486,42 @@
     <!-- µTorrent -->
     <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.EntryActivity}" drawable="utorrent" />
 
+    <!-- 1.1.4 -->
+
+    <!-- Air NZ -->
+    <item component="ComponentInfo{nz.co.airnz.mpass/nz.co.airnz.mpass.activities.Home}" drawable="air_nz" />
+    <!-- Co-operative Bank -->
+    <item component="ComponentInfo{nz.co.cooperativebank/nz.co.cooperativebank.ui.home.HomeActivity}" drawable="co_operative_bank" />
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="samsung_contacts" />
+    <!-- goMoney NZ -->
+    <item component="ComponentInfo{nz.co.anz.android.mobilebanking/nz.co.anz.android.mobilebanking.ui.CoreActivity}" drawable="gomoney_nz" />
+    <!-- Messages -->
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="samsung_messages" />
+    <!-- SKY TV -->
+    <item component="ComponentInfo{nz.co.skyepg/nz.co.skyepg.loading.LoadingActivity}" drawable="sky_tv" />
+    <!-- SkyGo -->
+    <item component="ComponentInfo{nz.co.skytv.skyconrad/nz.co.skytv.skyconrad.activities.main.PromoActivity}" drawable="sky_go" />
+    <!-- Snapseed -->
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
+    <!-- Swipe -->
+    <item component="ComponentInfo{com.happening.studios.swipeforfacebookfree/com.happening.studios.swipeforfacebookfree.activities.SplashActivity}" drawable="swipe" />
+    <!-- Walking Dead -->
+    <item component="ComponentInfo{com.scopely.headshot/com.iugome.igl.Activity}" drawable="twd" />
+    <!-- Camera -->
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="pa_camera" />
+    <!-- Gallery -->
+    <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+    <!-- Japanese Listening Practice -->
+    <item component="ComponentInfo{com.andromo.dev28487.app267707/com.andromo.dev28487.app267707.Dashboard_000}" drawable="japanese_listening" />
+    <!-- Mobilism Market -->
+    <item component="ComponentInfo{org.mobilism.android/org.mobilism.android.Main}" drawable="mobilism" />
+    <!-- PA Browser -->
+    <item component="ComponentInfo{com.paranoidandroid.browser/com.google.android.apps.chrome.Main}" drawable="pa_browser" />
+    <!-- Sound Recorder -->
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
+    <!-- WEAR -->
+    <item component="ComponentInfo{com.starttoday.android.wear/com.starttoday.android.wear.main.MainActivity}" drawable="wear" />
+
 
 </resources>

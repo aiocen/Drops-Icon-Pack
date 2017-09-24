@@ -2,16 +2,13 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">12 September, 2017</string>
+    <string name="changelog_date">24 September, 2017</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
     * <i> for Italic
     * <u> for Underline -->
     <string-array name="changelog">
-        <item><![CDATA[
-        Requests back to normal
-        ]]></item>
         <item><![CDATA[
         Added new icons
         ]]></item>

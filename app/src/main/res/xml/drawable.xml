@@ -3,27 +3,22 @@
     <version>1</version>
 
     <category title="Newly Added" />
-    <item drawable="neko_atsume" />
-    <item drawable="altos_adventure" />
-    <item drawable="memrise" />
-    <item drawable="applock" />
-    <item drawable="wish" />
-    <item drawable="uber" />
-    <item drawable="utorrent" />
-    <item drawable="pandora" />
-    <item drawable="kakaotalk" />
-    <item drawable="tunein" />
-    <item drawable="ms_outlook" />
-    <item drawable="notes" />
-    <item drawable="kik" />
-    <item drawable="camera_alt_2" />
-    <item drawable="pinterest" />
-    <item drawable="kindle" />
-    <item drawable="imdb" />
-    <item drawable="xender" />
-    <item drawable="barcode_scanner" />
-    <item drawable="tripadvisor" />
-    <item drawable="oneplus_camera" />
+    <item drawable="wear" />
+    <item drawable="japanese_listening" />
+    <item drawable="air_nz" />
+    <item drawable="samsung_contacts" />
+    <item drawable="co_operative_bank" />
+    <item drawable="gomoney_nz" />
+    <item drawable="samsung_messages" />
+    <item drawable="sky_tv" />
+    <item drawable="sky_go" />
+    <item drawable="snapseed" />
+    <item drawable="swipe" />
+    <item drawable="twd" />
+    <item drawable="pa_camera" />
+    <item drawable="pa_browser" />
+    <item drawable="sound_recorder" />
+    <item drawable="mobilism" />
 
     <category title="0-9" />
     <item drawable="o17track" />
@@ -45,6 +40,8 @@
     <item drawable="anyme" />
     <item drawable="adwords" />
     <item drawable="avg" />
+    <item drawable="altos_adventure" />
+    <item drawable="applock" />
 
     <category title="B" />
     <item drawable="boost" />
@@ -52,6 +49,7 @@
     <item drawable="browser_alt" />
     <item drawable="battery_doctor" />
     <item drawable="bbm" />
+    <item drawable="barcode_scanner" />
 
     <category title="C" />
     <item drawable="calculator" />
@@ -74,6 +72,7 @@
     <item drawable="camera360" />
     <item drawable="chrome_canary" />
     <item drawable="clean_master" />
+    <item drawable="camera_alt_2" />
 
     <category title="D" />
     <item drawable="devtools" />
@@ -134,6 +133,7 @@
     <category title="I" />
     <item drawable="instagram" />
     <item drawable="ifttt" />
+    <item drawable="imdb" />
 
     <category title="J" />
     <item drawable="join" />
@@ -144,6 +144,9 @@
     <item drawable="kustom_widget" />
     <item drawable="klwp" />
     <item drawable="kitchenstories" />
+    <item drawable="kakaotalk" />
+    <item drawable="kik" />
+    <item drawable="kindle" />
 
     <category title="L" />
     <item drawable="lol_friends" />
@@ -167,6 +170,8 @@
     <item drawable="ms_onenote" />
     <item drawable="ms_excel" />
     <item drawable="moon_reader" />
+    <item drawable="memrise" />
+    <item drawable="ms_outlook" />
 
     <category title="N" />
     <item drawable="news_weather" />
@@ -175,10 +180,13 @@
     <item drawable="newpipe" />
     <item drawable="nori" />
     <item drawable="nintendo_switch_online" />
+    <item drawable="neko_atsume" />
+    <item drawable="notes" />
 
     <category title="O" />
     <item drawable="onedrive" />
     <item drawable="opera" />
+    <item drawable="oneplus_camera" />
 
     <category title="P" />
     <item drawable="phone" />
@@ -199,6 +207,8 @@
     <item drawable="phonograph" />
     <item drawable="photogrid" />
     <item drawable="picsart" />
+    <item drawable="pandora" />
+    <item drawable="pinterest" />
 
     <category title="Q" />
 
@@ -248,9 +258,13 @@
     <item drawable="ticktick" />
     <item drawable="taekim_japanese" />
     <item drawable="truecaller" />
+    <item drawable="tripadvisor" />
+    <item drawable="tunein" />
 
     <category title="U" />
     <item drawable="uc_browser" />
+    <item drawable="uber" />
+    <item drawable="utorrent" />
 
     <category title="V" />
     <item drawable="viber" />
@@ -267,8 +281,10 @@
     <item drawable="wow_armory" />
     <item drawable="wechat" />
     <item drawable="waze" />
+    <item drawable="wish" />
 
     <category title="X" />
+    <item drawable="xender" />
 
     <category title="Y" />
     <item drawable="youtube" />
