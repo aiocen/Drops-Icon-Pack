@@ -18,8 +18,8 @@ android {
         applicationId "com.aiocen.iconpack.drops"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 19
-        versionName "1.1.4"
+        versionCode 21
+        versionName "1.1.6"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 

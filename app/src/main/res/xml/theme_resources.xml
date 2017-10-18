@@ -527,4 +527,79 @@
     <!-- WEAR -->
     <AppIcon name="com.starttoday.android.wear/com.starttoday.android.wear.main.MainActivity" image="wear" />
 
+    <!-- 1.1.5 -->
+
+    <!-- 9GAG -->
+    <AppIcon name="com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity" image="o9gag" />
+    <!-- Avast Mobile Security -->
+    <AppIcon name="com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.main.MainActivity" image="avast" />
+    <!-- Bitmoji -->
+    <AppIcon name="com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity" image="bitmoji" />
+    <!-- Booking.com Hotels -->
+    <AppIcon name="com.booking/com.booking.activity.StartActivity" image="booking" />
+    <!-- ESPN -->
+    <AppIcon name="com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity" image="espn" />
+    <!-- FINN.no -->
+    <AppIcon name="no.finn.android/no.finn.android.ui.homepage.HomeActivity" image="finn" />
+    <!-- LinkedIn -->
+    <AppIcon name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity" image="linkedin" />
+    <!-- Moments -->
+    <AppIcon name="com.facebook.moments/com.facebook.moments.MomentsStartActivity" image="moments" />
+    <!-- OK -->
+    <AppIcon name="ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity" image="ok" />
+    <!-- Prime Video -->
+    <AppIcon name="com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity" image="amazon_prime_video" />
+    <!-- SHAREit -->
+    <AppIcon name="com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity" image="shareit" />
+    <!-- Sports -->
+    <AppIcon name="com.yahoo.mobile.client.android.sportacular/com.yahoo.mobile.ysports.activity.LauncherActivity" image="yahoo_sports" />
+    <!-- substratum -->
+    <AppIcon name="projekt.substratum/projekt.substratum.LauncherActivity" image="substratum" />
+    <!-- Tasker -->
+    <AppIcon name="net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker" image="tasker" />
+    <!-- Viafree -->
+    <AppIcon name="no.viafree.android/com.viafree.android.SplashActivity" image="viafree" />
+    <!-- YouTube Gaming -->
+    <AppIcon name="com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity" image="youtube_gaming" />
+
+    <!-- 1.1.6 -->
+
+    <!-- AccuWeather -->
+    <AppIcon name="com.accuweather.android/com.accuweather.app.SplashScreen" image="accuweather" />
+    <!-- Badoo -->
+    <AppIcon name="com.badoo.mobile/com.badoo.mobile.android.BadooActivity" image="badoo" />
+    <!-- Camera -->
+    <AppIcon name="com.android.camera2/com.android.camera.CameraLauncher" image="camera" />
+    <!-- DNB -->
+    <AppIcon name="no.apps.dnbnor/no.apps.dnbnor.SplashActivity" image="dnb" />
+    <!-- Dolphin -->
+    <AppIcon name="mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity" image="dolphin_browser" />
+    <!-- Etsy -->
+    <AppIcon name="com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity" image="etsy" />
+    <!-- GO Music -->
+    <AppIcon name="com.jiubang.go.music/com.jiubang.go.music.startup.GOMusicStartupActivity" image="go_music" />
+    <!-- Imgur -->
+    <AppIcon name="com.imgur.mobile/com.imgur.mobile.Launcher" image="imgur" />
+    <!-- Job Search -->
+    <AppIcon name="com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity" image="indeed" />
+    <!-- Mattilbud -->
+    <AppIcon name="com.mattilbud/com.mattilbud.activities.SplashActivity" image="mattilbud" />
+    <!-- NRK Radio -->
+    <AppIcon name="no.nrk.mobil.radio/no.nrk.mobil.radio.MainActivity" image="nrk_radio" />
+    <!-- NRK TV -->
+    <AppIcon name="no.nrk.tv/no.nrk.tv.view.MainTvActivity" image="nrk_tv" />
+    <!-- Photomath -->
+    <AppIcon name="com.microblink.photomath/com.microblink.photomath.main.MainActivity" image="photomath" />
+    <!-- Reddit -->
+    <AppIcon name="com.reddit.frontpage/com.reddit.frontpage.StartActivity" image="reddit" />
+    <!-- Viaplay -->
+    <AppIcon name="com.viaplay.android/com.viaplay.android.vc2.activity.VPSplashScreenActivity" image="viaplay" />
+    <!-- Yr -->
+    <AppIcon name="no.nrk.yr/no.nrk.yr.view.MainActivity" image="yr" />
+    <!-- µTorrent -->
+    <AppIcon name="com.utorrent.client/com.bittorrent.client.Main" image="utorrent" />
+    <!-- Hulu -->
+    <AppIcon name="com.hulu.plus/com.hulu.features.splash.SplashActivity" image="hulu" />
+
+
 </Theme>

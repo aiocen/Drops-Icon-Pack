@@ -520,4 +520,78 @@
     <!-- WEAR -->
     <item class="com.starttoday.android.wear" name="wear" />
 
+    <!-- 1.1.5 -->
+
+    <!-- 9GAG -->
+    <item class="com.ninegag.android.app" name="o9gag" />
+    <!-- Avast Mobile Security -->
+    <item class="com.avast.android.mobilesecurity" name="avast" />
+    <!-- Bitmoji -->
+    <item class="com.bitstrips.imoji" name="bitmoji" />
+    <!-- Booking.com Hotels -->
+    <item class="com.booking" name="booking" />
+    <!-- ESPN -->
+    <item class="com.espn.score_center" name="espn" />
+    <!-- FINN.no -->
+    <item class="no.finn.android" name="finn" />
+    <!-- LinkedIn -->
+    <item class="com.linkedin.android" name="linkedin" />
+    <!-- Moments -->
+    <item class="com.facebook.moments" name="moments" />
+    <!-- OK -->
+    <item class="ru.ok.android" name="ok" />
+    <!-- Prime Video -->
+    <item class="com.amazon.avod.thirdpartyclient" name="amazon_prime_video" />
+    <!-- SHAREit -->
+    <item class="com.lenovo.anyshare.gps" name="shareit" />
+    <!-- Sports -->
+    <item class="com.yahoo.mobile.client.android.sportacular" name="yahoo_sports" />
+    <!-- substratum -->
+    <item class="projekt.substratum" name="substratum" />
+    <!-- Tasker -->
+    <item class="net.dinglisch.android.taskerm" name="tasker" />
+    <!-- Viafree -->
+    <item class="no.viafree.android" name="viafree" />
+    <!-- YouTube Gaming -->
+    <item class="com.google.android.apps.youtube.gaming" name="youtube_gaming" />
+
+    <!-- 1.1.6 -->
+
+    <!-- AccuWeather -->
+    <item class="com.accuweather.android" name="accuweather" />
+    <!-- Badoo -->
+    <item class="com.badoo.mobile" name="badoo" />
+    <!-- Camera -->
+    <item class="com.android.camera2" name="camera" />
+    <!-- DNB -->
+    <item class="no.apps.dnbnor" name="dnb" />
+    <!-- Dolphin -->
+    <item class="mobi.mgeek.TunnyBrowser" name="dolphin_browser" />
+    <!-- Etsy -->
+    <item class="com.etsy.android" name="etsy" />
+    <!-- GO Music -->
+    <item class="com.jiubang.go.music" name="go_music" />
+    <!-- Imgur -->
+    <item class="com.imgur.mobile" name="imgur" />
+    <!-- Job Search -->
+    <item class="com.indeed.android.jobsearch" name="indeed" />
+    <!-- Mattilbud -->
+    <item class="com.mattilbud" name="mattilbud" />
+    <!-- NRK Radio -->
+    <item class="no.nrk.mobil.radio" name="nrk_radio" />
+    <!-- NRK TV -->
+    <item class="no.nrk.tv" name="nrk_tv" />
+    <!-- Photomath -->
+    <item class="com.microblink.photomath" name="photomath" />
+    <!-- Reddit -->
+    <item class="com.reddit.frontpage" name="reddit" />
+    <!-- Viaplay -->
+    <item class="com.viaplay.android" name="viaplay" />
+    <!-- Yr -->
+    <item class="no.nrk.yr" name="yr" />
+    <!-- µTorrent -->
+    <item class="com.utorrent.client" name="utorrent" />
+    <!-- Hulu -->
+    <item class="com.hulu.plus" name="hulu" />
+
 </appmap>

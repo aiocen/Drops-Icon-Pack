@@ -484,7 +484,7 @@
     <!-- Xender -->
     <item component="ComponentInfo{cn.xender/cn.xender.ui.activity.SplashActivity}" drawable="xender" />
     <!-- µTorrent -->
-    <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.EntryActivity}" drawable="utorrent" />
+    <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.Main}" drawable="utorrent" />
 
     <!-- 1.1.4 -->
 
@@ -522,6 +522,80 @@
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
     <!-- WEAR -->
     <item component="ComponentInfo{com.starttoday.android.wear/com.starttoday.android.wear.main.MainActivity}" drawable="wear" />
+
+    <!-- 1.1.5 -->
+
+    <!-- 9GAG -->
+    <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="o9gag" />
+    <!-- Avast Mobile Security -->
+    <item component="ComponentInfo{com.avast.android.mobilesecurity/com.avast.android.mobilesecurity.app.main.MainActivity}" drawable="avast" />
+    <!-- Bitmoji -->
+    <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="bitmoji" />
+    <!-- Booking.com Hotels -->
+    <item component="ComponentInfo{com.booking/com.booking.activity.StartActivity}" drawable="booking" />
+    <!-- ESPN -->
+    <item component="ComponentInfo{com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity}" drawable="espn" />
+    <!-- FINN.no -->
+    <item component="ComponentInfo{no.finn.android/no.finn.android.ui.homepage.HomeActivity}" drawable="finn" />
+    <!-- LinkedIn -->
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin" />
+    <!-- Moments -->
+    <item component="ComponentInfo{com.facebook.moments/com.facebook.moments.MomentsStartActivity}" drawable="moments" />
+    <!-- OK -->
+    <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ok" />
+    <!-- Prime Video -->
+    <item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="amazon_prime_video" />
+    <!-- SHAREit -->
+    <item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="shareit" />
+    <!-- Sports -->
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.sportacular/com.yahoo.mobile.ysports.activity.LauncherActivity}" drawable="yahoo_sports" />
+    <!-- substratum -->
+    <item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="substratum" />
+    <!-- Tasker -->
+    <item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="tasker" />
+    <!-- Viafree -->
+    <item component="ComponentInfo{no.viafree.android/com.viafree.android.SplashActivity}" drawable="viafree" />
+    <!-- YouTube Gaming -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity}" drawable="youtube_gaming" />
+
+    <!-- 1.1.6 -->
+
+    <!-- AccuWeather -->
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.app.SplashScreen}" drawable="accuweather" />
+    <!-- Badoo -->
+    <item component="ComponentInfo{com.badoo.mobile/com.badoo.mobile.android.BadooActivity}" drawable="badoo" />
+    <!-- Camera -->
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
+    <!-- DNB -->
+    <item component="ComponentInfo{no.apps.dnbnor/no.apps.dnbnor.SplashActivity}" drawable="dnb" />
+    <!-- Dolphin -->
+    <item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity}" drawable="dolphin_browser" />
+    <!-- Etsy -->
+    <item component="ComponentInfo{com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity}" drawable="etsy" />
+    <!-- GO Music -->
+    <item component="ComponentInfo{com.jiubang.go.music/com.jiubang.go.music.startup.GOMusicStartupActivity}" drawable="go_music" />
+    <!-- Imgur -->
+    <item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="imgur" />
+    <!-- Job Search -->
+    <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="indeed" />
+    <!-- Mattilbud -->
+    <item component="ComponentInfo{com.mattilbud/com.mattilbud.activities.SplashActivity}" drawable="mattilbud" />
+    <!-- NRK Radio -->
+    <item component="ComponentInfo{no.nrk.mobil.radio/no.nrk.mobil.radio.MainActivity}" drawable="nrk_radio" />
+    <!-- NRK TV -->
+    <item component="ComponentInfo{no.nrk.tv/no.nrk.tv.view.MainTvActivity}" drawable="nrk_tv" />
+    <!-- Photomath -->
+    <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="photomath" />
+    <!-- Reddit -->
+    <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="reddit" />
+    <!-- Viaplay -->
+    <item component="ComponentInfo{com.viaplay.android/com.viaplay.android.vc2.activity.VPSplashScreenActivity}" drawable="viaplay" />
+    <!-- Yr -->
+    <item component="ComponentInfo{no.nrk.yr/no.nrk.yr.view.MainActivity}" drawable="yr" />
+    <!-- µTorrent -->
+    <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.Main}" drawable="utorrent" />
+    <!-- Hulu -->
+    <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
 
 
 </resources>

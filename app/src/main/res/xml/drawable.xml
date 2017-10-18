@@ -3,28 +3,29 @@
     <version>1</version>
 
     <category title="Newly Added" />
-    <item drawable="wear" />
-    <item drawable="japanese_listening" />
-    <item drawable="air_nz" />
-    <item drawable="samsung_contacts" />
-    <item drawable="co_operative_bank" />
-    <item drawable="gomoney_nz" />
-    <item drawable="samsung_messages" />
-    <item drawable="sky_tv" />
-    <item drawable="sky_go" />
-    <item drawable="snapseed" />
-    <item drawable="swipe" />
-    <item drawable="twd" />
-    <item drawable="pa_camera" />
-    <item drawable="pa_browser" />
-    <item drawable="sound_recorder" />
-    <item drawable="mobilism" />
+    <item drawable="accuweather" />
+    <item drawable="badoo" />
+    <item drawable="dnb" />
+    <item drawable="dolphin_browser" />
+    <item drawable="etsy" />
+    <item drawable="go_music" />
+    <item drawable="imgur" />
+    <item drawable="indeed" />
+    <item drawable="mattilbud" />
+    <item drawable="nrk_radio" />
+    <item drawable="nrk_tv" />
+    <item drawable="photomath" />
+    <item drawable="reddit" />
+    <item drawable="viaplay" />
+    <item drawable="yr" />
+    <item drawable="hulu" />
 
     <category title="0-9" />
     <item drawable="o17track" />
     <item drawable="o17track_alt" />
     <item drawable="o180" />
     <item drawable="o360_security" />
+    <item drawable="o9gag" />
 
     <category title="A" />
     <item drawable="adaway" />
@@ -42,6 +43,9 @@
     <item drawable="avg" />
     <item drawable="altos_adventure" />
     <item drawable="applock" />
+    <item drawable="air_nz" />
+    <item drawable="avast" />
+    <item drawable="amazon_prime_video" />
 
     <category title="B" />
     <item drawable="boost" />
@@ -50,6 +54,8 @@
     <item drawable="battery_doctor" />
     <item drawable="bbm" />
     <item drawable="barcode_scanner" />
+    <item drawable="bitmoji" />
+    <item drawable="booking" />
 
     <category title="C" />
     <item drawable="calculator" />
@@ -73,6 +79,7 @@
     <item drawable="chrome_canary" />
     <item drawable="clean_master" />
     <item drawable="camera_alt_2" />
+    <item drawable="co_operative_bank" />
 
     <category title="D" />
     <item drawable="devtools" />
@@ -94,6 +101,7 @@
     <item drawable="evernote" />
     <item drawable="equalizer" />
     <item drawable="es_file_explorer" />
+    <item drawable="espn" />
 
     <category title="F" />
     <item drawable="facebook" />
@@ -107,6 +115,7 @@
     <item drawable="flamingo" />
     <item drawable="flashlight" />
     <item drawable="flud" />
+    <item drawable="finn" />
 
 
     <category title="G" />
@@ -124,6 +133,7 @@
     <item drawable="google_earth" />
     <item drawable="gonemad" />
     <item drawable="google_street_view" />
+    <item drawable="gomoney_nz" />
 
     <category title="H" />
     <item drawable="hangouts" />
@@ -137,6 +147,7 @@
 
     <category title="J" />
     <item drawable="join" />
+    <item drawable="japanese_listening" />
 
     <category title="K" />
     <item drawable="keep" />
@@ -151,6 +162,7 @@
     <category title="L" />
     <item drawable="lol_friends" />
     <item drawable="line" />
+    <item drawable="linkedin" />
 
     <category title="M" />
     <item drawable="maps" />
@@ -172,6 +184,8 @@
     <item drawable="moon_reader" />
     <item drawable="memrise" />
     <item drawable="ms_outlook" />
+    <item drawable="mobilism" />
+    <item drawable="moments" />
 
     <category title="N" />
     <item drawable="news_weather" />
@@ -187,6 +201,7 @@
     <item drawable="onedrive" />
     <item drawable="opera" />
     <item drawable="oneplus_camera" />
+    <item drawable="ok" />
 
     <category title="P" />
     <item drawable="phone" />
@@ -209,6 +224,8 @@
     <item drawable="picsart" />
     <item drawable="pandora" />
     <item drawable="pinterest" />
+    <item drawable="pa_camera" />
+    <item drawable="pa_browser" />
 
     <category title="Q" />
 
@@ -241,6 +258,15 @@
     <item drawable="samsung_camera" />
     <item drawable="samsung_clock" />
     <item drawable="security_master" />
+    <item drawable="sound_recorder" />
+    <item drawable="samsung_messages" />
+    <item drawable="samsung_contacts" />
+    <item drawable="snapseed" />
+    <item drawable="sky_tv" />
+    <item drawable="sky_go" />
+    <item drawable="swipe" />
+    <item drawable="shareit" />
+    <item drawable="substratum" />
 
     <category title="T" />
     <item drawable="tachiyomi" />
@@ -260,6 +286,8 @@
     <item drawable="truecaller" />
     <item drawable="tripadvisor" />
     <item drawable="tunein" />
+    <item drawable="twd" />
+    <item drawable="tasker" />
 
     <category title="U" />
     <item drawable="uc_browser" />
@@ -273,6 +301,7 @@
     <item drawable="voice_search" />
     <item drawable="vivavideo" />
     <item drawable="vk" />
+    <item drawable="viafree" />
 
     <category title="W" />
     <item drawable="wallpapers" />
@@ -282,6 +311,7 @@
     <item drawable="wechat" />
     <item drawable="waze" />
     <item drawable="wish" />
+    <item drawable="wear" />
 
     <category title="X" />
     <item drawable="xender" />
@@ -290,6 +320,8 @@
     <item drawable="youtube" />
     <item drawable="yahoo_weather" />
     <item drawable="yahoo_mail" />
+    <item drawable="yahoo_sports" />
+    <item drawable="youtube_gaming" />
 
     <category title="Z" />
     <item drawable="zazhimi" />
